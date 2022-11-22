@@ -9,6 +9,8 @@ public class Sample {
 		
 		System.out.println(s.charAt(2));
 		
+		String s1[]= {"java","python","selenium"};
+		System.out.println(s1[2]);
 		
 		int a = 8;
 		
