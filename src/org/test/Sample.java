@@ -10,6 +10,12 @@ public class Sample {
 		System.out.println(s.charAt(2));
 		
 		
+		int a = 8;
+		
+		System.out.println(a);
+		
+		System.out.println(12345);
+		
 	}
 
 }
